@@ -1,0 +1,124 @@
+body {
+  font-family: "Gemunu Libre", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.spn {
+  color: tomato;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 25px;
+}
+.header {
+  display: flex;
+  background-image: url(/images/shapes/Frame\ 58.jpg);
+}
+.half-width {
+  width: 50%;
+  padding: 25px;
+  padding-left: 7%;
+}
+.half-width img {
+  width: 70%;
+}
+.btn {
+  text-decoration: none;
+  border: 5px;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 25px;
+  color: aliceblue;
+  background-image: linear-gradient(orange, tomato);
+}
+.about {
+  background-image: url(/images/shapes/Frame\ 56.jpg);
+  display: flex;
+  padding-top: 10px;
+}
+.about-text {
+  padding-top: 10px;
+}
+.about-image img {
+  width: 50%;
+}
+.recipe-item {
+  display: flex;
+  margin-bottom: 10px;
+  padding-left: 120px;
+}
+.items {
+  margin-left: 99px;
+  height: 330px;
+  width: 220px;
+  box-shadow: 0px 1px 10px 0px #b1b0b0;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+.first-item img {
+  width: 200px;
+  border-radius: 15px;
+}
+.second-item img {
+  width: 200px;
+  border-radius: 15px;
+}
+.third-item img {
+  width: 200px;
+  height: 170px;
+  border-radius: 15px;
+}
+
+.recipe {
+  padding: 35px;
+  text-align: center;
+}
+.recipe p {
+  padding-left: 50px;
+}
+.recipe-text p {
+  font-size: 15px;
+}
+.recipe-text h3 {
+  font-size: 20px;
+  font-style: bold;
+}
+.customer-number {
+  display: flex;
+  /* padding-left: 350px; */
+  width: 950px;
+  margin: 100px;
+  margin-left: 200px;
+  border-radius: 15px;
+  box-shadow: 0px 1px 10px 0px #b1b0b0;
+}
+.text {
+  margin-left: 110px;
+}
+p {
+  text-align: justify;
+}
+.footer {
+  height: 200px;
+  background-color: black;
+} 
+
+.food {
+  color: coral;
+}
+.net{
+  color: #b1b0b0;
+}
+.footer p{
+  color: bisque;
+  font-size: 15px;
+  text-align: center;
+}
+.footer h3{
+  text-align: center;
+  padding-top: 50px;
+}
